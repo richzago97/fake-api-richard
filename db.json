@@ -1,0 +1,60 @@
+{
+  "users": [
+    {
+      "email": "kenzinho@mail.com",
+      "password": "$2a$10$YQiiz0ANVwIgpOjYXPxc0O9H2XeX3m8OoY1xk7OGgxTnOJnsZU7FO",
+      "name": "Kenzinho",
+      "age": 38,
+      "id": 1
+    },
+    {
+      "email": "rich.czago@gmail.com",
+      "password": "$2a$10$bad9L0szj1QIThwDgYTm0e5uZRyLRXkivlGT5BfXiz67/tCkcc6SW",
+      "id": 2
+    }
+  ],
+  "cities": [
+    {
+      "name": "Porto Alegre",
+      "state": "Rio Grande Do Sul",
+      "region": "Sul",
+      "userId": 2,
+      "id": 1
+    },
+    {
+      "name": "Encruzilhada do Sul",
+      "state": "Rio Grande Do Sul",
+      "region": "Sul",
+      "userId": 2,
+      "id": 2
+    },
+    {
+      "name": "Joinville",
+      "state": "Santa Catarina",
+      "region": "Sul",
+      "userId": 2,
+      "id": 3
+    },
+    {
+      "name": "São Paulo",
+      "state": "São Paulo",
+      "region": "Sudeste",
+      "userId": 2,
+      "id": 4
+    },
+    {
+      "name": "Rio de Janeiro",
+      "state": "Rio de Janeiro",
+      "region": "Sudeste",
+      "userId": 2,
+      "id": 5
+    },
+    {
+      "name": "Curitiba",
+      "state": "Paraná",
+      "region": "Sul",
+      "userId": 2,
+      "id": 6
+    }
+  ]
+}
